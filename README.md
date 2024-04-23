@@ -21,4 +21,4 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/tan-nguyen-4392352a2/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><a target="_blank" href="https://github.com/dtvala2930" style="display: inline-block;"><img src="https://icons8.com/icon/AZOZNnY73haj/github" alt="Github" /></a></p>
+<p><a target="_blank" href="https://github.com/dtvala2930" style="display: inline-block;"><img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-1024.png" alt="Github" /></a></p>
